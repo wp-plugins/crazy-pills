@@ -1,0 +1,20 @@
+div.cp_error,
+div.cp_alert,
+div.cp_success,
+div.cp_info {
+	padding-left: 20px;
+	padding-right: 60px;
+	background-position: 20px center;
+}
+
+ul.cp_bullet li {
+	padding-left: 0;
+	padding-right: 24px;
+	background-position: center right;
+}
+
+ul.cp_check li {
+	padding-left: 0;
+	padding-right: 30px;
+	background-position: top right;
+}
